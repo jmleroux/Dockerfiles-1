@@ -1,0 +1,16 @@
+default:
+
+    paths:
+
+        - vendor/akeneo/pim-community-dev/features
+
+        - features
+
+
+    filters:
+
+        tags: "~skip&&~skip-pef&&~skip-nav&&~doc&&~unstable&&~unstable-app&&~deprecated&&~@unstable-app"
+
+    context:
+
+
